@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletoBusMaMonolitica", "BoletoBusMaMonolitica\BoletoBusMaMonolitica.csproj", "{4F38517D-7CBF-49D7-BBF1-093686065C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F38517D-7CBF-49D7-BBF1-093686065C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F38517D-7CBF-49D7-BBF1-093686065C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F38517D-7CBF-49D7-BBF1-093686065C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F38517D-7CBF-49D7-BBF1-093686065C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE34F1E-58A9-4B72-BD72-E071A64E0CAB}
+	EndGlobalSection
+EndGlobal
