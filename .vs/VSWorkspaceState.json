@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BoletoBusMaMonolitica",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions"
   ],
-  "SelectedNode": "\\BoletoBusMaMonolitica.sln",
+  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
   "PreviewInSolutionExplorer": false
 }
