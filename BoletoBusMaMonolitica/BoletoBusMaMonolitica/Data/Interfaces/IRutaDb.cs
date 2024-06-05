@@ -1,9 +1,14 @@
 ﻿using BoletoBusMaMonolitica.Data.Entities;
+using BoletoBusMaMonolitica.Data.Models;
 
 namespace BoletoBusMaMonolitica.Data.Interfaces
 {
-    public class IRutaDb
+    public interface IRutaDB
     {
-        void Save(Ruta ruta);
+        void SaveRuta(RutaSaveModel rutaSave);
+        void UpdateRuta(RutaUpdateModel updateModel);
+        void RemoveRuta(RutaRemoveModel rutaRemove);
+        List<RutaModel> GetRutas();
+        RutaModel GetRuta(int IdRuta);
     }
 }
