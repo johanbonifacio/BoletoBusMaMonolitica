@@ -1,14 +1,22 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using BoletoBusMaMonolitica.Data.DbObjects;
+using BoletoBusMaMonolitica.Data.Interfaces;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BoletoBusMaMonolitica.Controllers
 {
     public class AsientoController : Controller
     {
+        private readonly IAsientoDb asientoDb;
+        public AsientoController(IAsientoDb asientoDb)
+        {
+            this.asientoDb = asientoDb;
+        }
         // GET: AsientoController
         public ActionResult Index()
         {
-            return View();
+            var asiento = this.asientoDb.GetAsientos();
+            return View(asiento);
         }
 
         // GET: AsientoController/Details/5
