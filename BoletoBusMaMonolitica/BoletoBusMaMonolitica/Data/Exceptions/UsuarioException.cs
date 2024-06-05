@@ -1,9 +1,17 @@
+using BoletoBusMaMonolitica.Data.Entities;
+
 namespace BoletoBusMaMonolitica.Data.Exceptions
 {
-    public class UsuariosException : Exception
+    public class UsuarioException : Exception
     {
-        public UsuariosException(string message) : base(message)
+        public UsuarioException(string message) : base(message)
         {
+        }
+
+
+        internal static void VerifyExistence(Usuario? usuario, string? idUsuario)
+        {
+            throw new NotImplementedException();
         }
     }
 }
