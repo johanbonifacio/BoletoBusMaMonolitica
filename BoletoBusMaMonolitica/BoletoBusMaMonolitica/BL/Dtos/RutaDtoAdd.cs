@@ -1,6 +1,6 @@
 ﻿namespace BoletoBusMaMonolitica.BL.Dtos
 {
-    public class RutaDtoAdd
+    public record RutaDtoAdd
     {
     }
 }

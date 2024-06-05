@@ -1,6 +1,6 @@
 ﻿namespace BoletoBusMaMonolitica.BL.Interfaces
 {
-    public class IRutaSerivice
+    public interface IRutaService
     {
     }
 }
