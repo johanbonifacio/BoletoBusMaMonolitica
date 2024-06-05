@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\BoletoBusMaMonolitica",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities"
   ],
+  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
