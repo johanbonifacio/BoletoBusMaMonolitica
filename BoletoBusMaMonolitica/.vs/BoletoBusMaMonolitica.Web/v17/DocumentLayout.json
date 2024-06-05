@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\bussavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\bussavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\busupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\busupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\asientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\asientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\iasientodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\iasientodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\asientoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\asientoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\asientodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\asientodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\services\\asientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\services\\asientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\interfaces\\iasientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\interfaces\\iasientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\dtos\\asientodtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\dtos\\asientodtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\dtos\\busdtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\dtos\\busdtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\exceptions\\asientoserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\exceptions\\asientoserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\interfaces\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\interfaces\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\busdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\busdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|d:\\projects\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\busexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\busexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusUpdateModel.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusUpdateModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\BusUpdateModel.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusUpdateModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\BusUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:09:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusSaveModel.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusSaveModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\BusSaveModel.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusSaveModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\BusSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:59:25.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AsientoController.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\AsientoController.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Controllers\\AsientoController.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\AsientoController.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Controllers\\AsientoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:58:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusModel.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\BusModel.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\BusModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\BusModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:05:36.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusController.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\BusController.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Controllers\\BusController.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\BusController.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Controllers\\BusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:58:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:55:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsientoModel.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\AsientoModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\AsientoModel.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\AsientoModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\AsientoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:25:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBusDb.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:58:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Asiento.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Asiento.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Asiento.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Asiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:12:47.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAsientoDb.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IAsientoDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IAsientoDb.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IAsientoDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IAsientoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:23:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoletoBusContext.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:52:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsientoDb.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\AsientoDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\AsientoDb.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\AsientoDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\AsientoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:29:02.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:53:19.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BusDtoAdd.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Dtos\\BusDtoAdd.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Dtos\\BusDtoAdd.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Dtos\\BusDtoAdd.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Dtos\\BusDtoAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:12:56.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAsientoService.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Interfaces\\IAsientoService.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Interfaces\\IAsientoService.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Interfaces\\IAsientoService.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Interfaces\\IAsientoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:30:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsientoException.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\AsientoException.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Exceptions\\AsientoException.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\AsientoException.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Exceptions\\AsientoException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:25:37.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsientoService.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Services\\AsientoService.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Services\\AsientoService.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Services\\AsientoService.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Services\\AsientoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:29:39.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AsientoServiceException.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Exceptions\\AsientoServiceException.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Exceptions\\AsientoServiceException.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Exceptions\\AsientoServiceException.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Exceptions\\AsientoServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:30:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsientoDtoAdd.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Dtos\\AsientoDtoAdd.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Dtos\\AsientoDtoAdd.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Dtos\\AsientoDtoAdd.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Dtos\\AsientoDtoAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:31:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BusServiceException.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:10:31.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BusException.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\BusException.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Exceptions\\BusException.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\BusException.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Exceptions\\BusException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:08:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBusService.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Interfaces\\IBusService.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Interfaces\\IBusService.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Interfaces\\IBusService.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Interfaces\\IBusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:03:28.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Services\\BusService.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Services\\BusService.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Services\\BusService.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\BL\\Services\\BusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:02:27.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusDb.cs",
+              "DocumentMoniker": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "ToolTip": "D:\\Projects\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:57:52.72Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

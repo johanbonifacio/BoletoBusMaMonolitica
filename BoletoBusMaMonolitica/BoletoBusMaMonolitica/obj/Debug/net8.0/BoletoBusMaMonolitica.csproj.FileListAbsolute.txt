@@ -28,3 +28,4 @@ D:\Projects\BoletoBusMaMonolitica\BoletoBusMaMonolitica\BoletoBusMaMonolitica\ob
 D:\Projects\BoletoBusMaMonolitica\BoletoBusMaMonolitica\BoletoBusMaMonolitica\obj\Debug\net8.0\BoletoBusMaMonolitica.pdb
 D:\Projects\BoletoBusMaMonolitica\BoletoBusMaMonolitica\BoletoBusMaMonolitica\obj\Debug\net8.0\BoletoBusMaMonolitica.genruntimeconfig.cache
 D:\Projects\BoletoBusMaMonolitica\BoletoBusMaMonolitica\BoletoBusMaMonolitica\obj\Debug\net8.0\ref\BoletoBusMaMonolitica.dll
+D:\Projects\BoletoBusMaMonolitica\BoletoBusMaMonolitica\BoletoBusMaMonolitica\obj\Debug\net8.0\BoletoBusMaMonolitica.sourcelink.json
