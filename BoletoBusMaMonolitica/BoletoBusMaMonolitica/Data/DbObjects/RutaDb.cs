@@ -17,25 +17,25 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             this.context = context;
         }
 
-        public RutaModel GetAsiento(int IdRuta)
+        public RutaModel GetRuta(int IdRuta)
         {
             var ruta = context.Ruta.Find(IdRuta);
             return RutaModel.FromEntity(ruta);
         }
 
-        public List<RutaModel> GetAsientos()
+        public List<RutaModel> GetRutas()
         {
             return context.Ruta.Select(ruta => RutaModel.FromEntity(ruta)).ToList();
         }
 
-        public void SaveAsiento(RutaSaveModel rutaSave)
+        public void SaveRuta(RutaSaveModel rutaSave)
         {
             var ruta = rutaSave.ToEntity();
             context.Ruta.Add(ruta);
             context.SaveChanges();
         }
 
-        public void UpdateAsiento(RutaUpdateModel updateModel)
+        public void UpdateRuta(RutaUpdateModel updateModel)
         {
             var ruta = context.Ruta.Find(updateModel.IdRuta);
             RutaException.VerifyExistence(ruta, updateModel.IdRuta);
@@ -44,7 +44,7 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             context.SaveChanges();
         }
 
-        public void RemoveAsiento(RutaRemoveModel rutaRemove)
+        public void RemoveRuta(RutaRemoveModel rutaRemove)
         {
             var ruta = context.Ruta.Find(rutaRemove.IdRuta);
             RutaException.VerifyExistence(ruta, rutaRemove.IdRuta);
