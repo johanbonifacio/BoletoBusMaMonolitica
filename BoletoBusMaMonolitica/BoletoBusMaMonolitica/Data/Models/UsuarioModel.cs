@@ -2,26 +2,24 @@ using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class UsuarioModel
+    public class UsuarioModel  : Usuario
     {
 
 
-        public string? IdUsuario { get; set; }
-
-        public string? Nombres { get; set; }
-
-        public string? Apellidos { get; set; }
-        public string? Correo { get; set; }
-
-        public string? TipoUsuario { get; set; }
-
-        public DateTime FechaCreacion { get; set; }
-
         
-
-        internal static UsuarioModel FromEntity(Usuario? usuario)
+       
+         public static UsuarioModel FromEntity(Usuario usuario)
         {
-            throw new NotImplementedException();
+            return new UsuarioModel
+            {
+                IdUsuario = usuario.IdUsuario, Apellidos = usuario.Apellidos,
+                Correo = usuario.Correo,
+                FechaCreacion=usuario.FechaCreacion, 
+                Nombres = usuario.Nombres, 
+                TipoUsuario = usuario.TipoUsuario  
+                
+
+            };
         }
 
         internal void UpdateEntity(Usuario? usuario)

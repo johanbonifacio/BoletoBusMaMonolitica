@@ -1,29 +1,41 @@
+using BoletoBusMaMonolitica.Data.DbObjects;
 using BoletoBusMaMonolitica.Data.Entities;
+using BoletoBusMaMonolitica.Data.Exceptions;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class ReservaUpdateModel
+    public class ReservaUpdateModel: ReservaModel
     {
 
-        
 
-        public int IdReserva { get; set; }
 
-        public int IdViaje { get; set; }
-
-        public int IdPasajero { get; set; }
-
-        public int AsientosReservados { get; set; }
-
-        public decimal MontoTotal { get; set; }
-
-        public DateTime Modifydate { get; set; }
-
-        public string? IdUsuario { get; set; }
-
-        internal void UpdateEntity(Reserva? reserva)
+        public void UpdateEntity(Reserva reserva)
         {
-            throw new NotImplementedException();
+            reserva.IdViaje = this.IdViaje;
+           reserva.AsientosReservados = this.AsientosReservados;
+            reserva.IdReserva = this.IdReserva;
+            reserva.IdPasajero = this.IdPasajero;
+            reserva.FechaCreacion = this.FechaCreacion;
+
+
+
+
+            
+
         }
+
+
+
+
+
+
+
+
+
+
     }
+
+
+
+    
 }

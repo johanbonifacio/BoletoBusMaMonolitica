@@ -7,10 +7,12 @@ namespace BoletoBusMaMonolitica.Data.Exceptions
         public ReservaException(string message) : base(message)
         {
         }
-
-        internal static void VerifyExistence(Reserva? reserva, int idReserva)
+        public static void VerifyExistence(Reserva reserva, int idReserva)
         {
-            throw new NotImplementedException();
+            if (reserva == null)
+            {
+                throw new ReservaException($"la reserva con la id {idReserva} no está registrada.");
+            }
         }
     }
 }

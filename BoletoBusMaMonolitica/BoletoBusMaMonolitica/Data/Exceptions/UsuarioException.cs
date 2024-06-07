@@ -7,11 +7,14 @@ namespace BoletoBusMaMonolitica.Data.Exceptions
         public UsuarioException(string message) : base(message)
         {
         }
-
-
-        internal static void VerifyExistence(Usuario? usuario, string? idUsuario)
+        public static void VerifyExistence(Usuario usuario, int idUsuario)
         {
-            throw new NotImplementedException();
+            if (usuario == null)
+            {
+                throw new ReservaException($"el usuario con la id {idUsuario} no está registrado.");
+            }
         }
+
+        
     }
 }

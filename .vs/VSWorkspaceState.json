@@ -7,8 +7,9 @@
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data",
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context",
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core",
-    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities"
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions"
   ],
-  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica.sln",
   "PreviewInSolutionExplorer": false
 }

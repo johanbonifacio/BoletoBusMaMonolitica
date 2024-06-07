@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoBusMaMonolitica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495157b0b408c95a8da9fbfe58d86f7311327ddf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+406d96bfefde31e5ab40af4df1c332848ed0539c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoBusMaMonolitica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoBusMaMonolitica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

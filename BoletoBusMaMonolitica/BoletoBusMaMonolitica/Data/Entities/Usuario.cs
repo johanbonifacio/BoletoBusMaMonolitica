@@ -5,7 +5,7 @@ namespace BoletoBusMaMonolitica.Data.Entities
     public class Usuario : BaseEntity
     {
 
-        public string? IdUsuario { get; set; }
+        public int IdUsuario { get; set; }
 
         public string? Nombres { get; set; }
 

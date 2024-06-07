@@ -6,8 +6,7 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
     public interface IUsuarioDb
     {
         void SaveUsuario(UsuarioSaveModel usuarioSave);
-        void UpdateUsuario(UsuarioModel updateModel);
-
+        void UpdateUsuario(UsuarioUpdateModel updateModel);
         void RemoveUsuario(UsuarioRemoveModel UsuarioRemove);
         List<UsuarioModel> GetUsuarios();
         UsuarioModel GetUsuarios(int Idusuario);

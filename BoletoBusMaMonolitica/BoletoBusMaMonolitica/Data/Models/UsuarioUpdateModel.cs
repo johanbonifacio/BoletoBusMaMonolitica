@@ -1,18 +1,22 @@
-using System.Runtime.InteropServices;
+using BoletoBusMaMonolitica.Data.Entities;
+using BoletoBusMaMonolitica.Data.Models;
 
-// En proyectos de estilo SDK como este, varios atributos de ensamblado que definían
-// en este archivo se agregan ahora automáticamente durante la compilación y se rellenan
-// con valores definidos en las propiedades del proyecto. Para obtener detalles acerca
-// de los atributos que se incluyen y cómo personalizar este proceso, consulte https://aka.ms/assembly-info-properties
+public class UsuarioUpdateModel : UsuarioModel
+{
+    public UsuarioUpdateModel()
+    {
+    }
+    public void UpdateEntity(Usuario usuario)
+    {
 
 
-// Al establecer ComVisible en false, se consigue que los tipos de este ensamblado
-// no sean visibles para los componentes COM. Si tiene que acceder a un tipo en este
-// ensamblado desde COM, establezca el atributo ComVisible en true en ese tipo.
 
-[assembly: ComVisible(false)]
+        usuario.FechaCreacion = this.FechaCreacion;
+        usuario.Apellidos = this.Apellidos;
+        usuario.Correo = this.Correo;
+        usuario.TipoUsuario = this.TipoUsuario;
+        usuario.Nombres = this.Nombres;
+        usuario.IdUsuario = this.IdUsuario;
 
-// El siguiente GUID es para el identificador de typelib, si este proyecto se expone
-// en COM.
-
-[assembly: Guid("bcef118e-496a-435d-9516-b2796f5ac18f")]
+    }
+}

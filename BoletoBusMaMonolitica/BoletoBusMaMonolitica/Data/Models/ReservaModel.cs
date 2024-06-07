@@ -10,6 +10,10 @@ namespace BoletoBusMaMonolitica.Data.Models
 
         }
 
+        internal void UpdateEntity(Reserva? reserva)
+        {
+            throw new NotImplementedException();
+        }
         public static ReservaModel FromEntity(Reserva reserva)
         {
             return new ReservaModel

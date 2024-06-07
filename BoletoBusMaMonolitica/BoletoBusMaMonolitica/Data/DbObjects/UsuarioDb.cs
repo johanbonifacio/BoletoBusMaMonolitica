@@ -45,7 +45,7 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             context.SaveChanges();
         }
 
-        public void UpdateUsuario(UsuarioModel updateModel)
+        public void UpdateUsuario(UsuarioUpdateModel updateModel)
         {
             var usuario = context.Usuario.Find(updateModel.IdUsuario);
             UsuarioException.VerifyExistence(usuario, updateModel.IdUsuario);

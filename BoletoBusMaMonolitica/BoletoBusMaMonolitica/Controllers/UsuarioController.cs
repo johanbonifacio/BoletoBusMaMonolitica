@@ -9,18 +9,18 @@ namespace BoletoBusMaMonolitica.Controllers
 {
     public class UsuarioController : Controller
     {
-        private readonly IReservaDb reservaDb;
+        private readonly IUsuarioDb usuarioDb;
 
-        public UsuarioController(IReservaDb reservaDb)
+        public UsuarioController(IUsuarioDb usuarioDb)
         {
-            this.reservaDb = reservaDb;
+            this.usuarioDb = usuarioDb;
         }
 
 
         // GET: UsuarioController
         public ActionResult Index()
         {
-            this.reservaDb.GetReservas();
+            this.usuarioDb.GetUsuarios();
             return View();
         }
 
