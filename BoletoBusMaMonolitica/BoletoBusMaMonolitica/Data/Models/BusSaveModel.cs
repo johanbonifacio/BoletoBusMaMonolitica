@@ -2,7 +2,7 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class BusSaveModel : BusModel
+    public class BusSaveModel : BusBaseModel
     {
         public BusSaveModel()
         {

@@ -17,15 +17,16 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             this.context = context;
         }
 
-        public BusModel GetBus(int IdBus)
+        public BusGetModel GetBus(int IdBus)
         {
             var bus = context.Bus.Find(IdBus);
-            return BusModel.FromEntity(bus);
+            BusException.VerifyExistence(bus, IdBus);
+            return BusGetModel.FromEntity(bus);
         }
 
-        public List<BusModel> GetBuses()
+        public List<BusGetModel> GetBuses()
         {
-            return context.Bus.Select(bus => BusModel.FromEntity(bus)).ToList();
+            return context.Bus.Select(bus => BusGetModel.FromEntity(bus)).ToList();
         }
 
         public void SaveBus(BusSaveModel busSave)
@@ -39,7 +40,6 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
         {
             var bus = context.Bus.Find(updateModel.IdBus);
             BusException.VerifyExistence(bus, updateModel.IdBus);
-
             updateModel.UpdateEntity(bus);
             context.Bus.Update(bus);
             context.SaveChanges();
@@ -53,6 +53,7 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             context.SaveChanges();
         }
     }
+
 }
 
 

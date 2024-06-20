@@ -2,9 +2,9 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class AsientoRemoveModel : AsientoModel
+    public class AsientoRemoveModel : AsientoBaseModel
     {
-        public AsientoRemoveModel() 
+        public AsientoRemoveModel()
         {
         }
         public Asiento ToEntity()

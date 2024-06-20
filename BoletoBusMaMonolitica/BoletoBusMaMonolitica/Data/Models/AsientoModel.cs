@@ -3,9 +3,9 @@ using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class AsientoModel : Asiento
+    public class AsientoModel : AsientoBaseModel
     {
-        public AsientoModel() 
+        public AsientoModel()
         {
 
         }

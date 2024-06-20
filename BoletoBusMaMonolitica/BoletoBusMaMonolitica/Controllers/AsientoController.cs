@@ -2,6 +2,7 @@
 using BoletoBusMaMonolitica.Data.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using BoletoBusMaMonolitica.Data.Models;
 
 namespace BoletoBusMaMonolitica.Controllers
 {
@@ -22,7 +23,8 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: AsientoController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var asiento = this.asientoDb.GetAsiento(id);
+            return View(asiento);
         }
 
         // GET: AsientoController/Create
@@ -34,10 +36,12 @@ namespace BoletoBusMaMonolitica.Controllers
         // POST: AsientoController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(AsientoSaveModel asientoSave)
         {
             try
             {
+                asientoSave.FechaCreacion = DateTime.Now;
+                this.asientoDb.SaveAsiento(asientoSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -49,37 +53,19 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: AsientoController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var asiento = asientoDb.GetAsiento(id);
+            return View(asiento);
         }
 
         // POST: AsientoController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(AsientoUpdateModel asientoUpdate)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: AsientoController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: AsientoController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
+                asientoUpdate.FechaCreacion = DateTime.Now;
+                this.asientoDb.UpdateAsiento(asientoUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch

@@ -2,11 +2,11 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class BusRemoveModel : BusModel
+    public class BusRemoveModel : BusBaseModel
     {
-        public BusRemoveModel() 
+        public BusRemoveModel()
         {
-            
+
         }
 
         public Bus ToEntity()

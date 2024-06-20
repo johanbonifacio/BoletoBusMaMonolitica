@@ -8,7 +8,7 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
         void SaveBus (BusSaveModel bus);
         void UpdateBus (BusUpdateModel updateModel);
         void RemoveBus(BusRemoveModel busRemove);
-        List<BusModel> GetBuses();  
-        BusModel GetBus(int IdBus);
+        List<BusGetModel> GetBuses();
+        BusGetModel GetBus(int IdBus);
     }
 }

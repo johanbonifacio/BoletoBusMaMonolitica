@@ -8,7 +8,7 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
         void SaveAsiento (AsientoSaveModel asientoSave);
         void UpdateAsiento(AsientoUpdateModel updateModel);
         void RemoveAsiento(AsientoRemoveModel asientoRemove);
-        List<AsientoModel> GetAsientos();
-        AsientoModel GetAsiento(int IdAsiento);
+        List<AsientoGetModel> GetAsientos();
+        AsientoGetModel GetAsiento(int IdAsiento);
     }
 }

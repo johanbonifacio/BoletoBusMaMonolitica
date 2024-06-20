@@ -2,16 +2,16 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class AsientoUpdateModel : AsientoModel
+    public class AsientoUpdateModel : AsientoBaseModel
     {
         public AsientoUpdateModel() { }
 
         public void UpdateEntity(Asiento asiento)
         {
-            asiento.IdBus = this.IdBus;
-            asiento.NumeroPiso = this.NumeroPiso;
-            asiento.NumeroAsiento = this.NumeroAsiento;
-            asiento.FechaCreacion = this.FechaCreacion;
+            asiento.IdBus = IdBus;
+            asiento.NumeroPiso = NumeroPiso;
+            asiento.NumeroAsiento = NumeroAsiento;
+            asiento.FechaCreacion = FechaCreacion;
         }
     }
 }

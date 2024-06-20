@@ -2,7 +2,7 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class AsientoSaveModel : AsientoModel
+    public class AsientoSaveModel : AsientoBaseModel
     {
         public AsientoSaveModel() { }
 

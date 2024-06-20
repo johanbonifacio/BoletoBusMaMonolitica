@@ -17,15 +17,16 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             this.context = context;
         }
 
-        public AsientoModel GetAsiento(int IdAsiento)
+        public AsientoGetModel GetAsiento(int IdAsiento)
         {
             var asiento = context.Asiento.Find(IdAsiento);
-            return AsientoModel.FromEntity(asiento);
+            AsientoException.VerifyExistence(asiento, IdAsiento);
+            return AsientoGetModel.FromEntity(asiento);
         }
 
-        public List<AsientoModel> GetAsientos()
+        public List<AsientoGetModel> GetAsientos()
         {
-            return context.Asiento.Select(asiento => AsientoModel.FromEntity(asiento)).ToList();
+            return context.Asiento.Select(asiento => AsientoGetModel.FromEntity(asiento)).ToList();
         }
 
         public void SaveAsiento(AsientoSaveModel asientoSave)

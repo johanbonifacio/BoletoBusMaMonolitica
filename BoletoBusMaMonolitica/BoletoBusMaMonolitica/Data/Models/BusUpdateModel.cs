@@ -2,20 +2,20 @@
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class BusUpdateModel : BusModel
+    public class BusUpdateModel : BusBaseModel
     {
         public BusUpdateModel()
         {
         }
         public void UpdateEntity(Bus bus)
         {
-            bus.NumeroPlaca = this.NumeroPlaca;
-            bus.Nombre = this.Nombre;
-            bus.CapacidadPiso1 = this.CapacidadPiso1;
-            bus.CapacidadPiso2 = this.CapacidadPiso2;
-            bus.CapacidadTotal = this.CapacidadTotal;
-            bus.Disponible = this.Disponible;
-            bus.FechaCreacion = this.FechaCreacion;
+            bus.NumeroPlaca = NumeroPlaca;
+            bus.Nombre = Nombre;
+            bus.CapacidadPiso1 = CapacidadPiso1;
+            bus.CapacidadPiso2 = CapacidadPiso2;
+            bus.CapacidadTotal = CapacidadTotal;
+            bus.Disponible = Disponible;
+            bus.FechaCreacion = FechaCreacion;
         }
     }
 }
