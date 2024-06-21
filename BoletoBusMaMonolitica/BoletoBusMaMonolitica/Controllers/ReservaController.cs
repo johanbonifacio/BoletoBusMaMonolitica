@@ -1,6 +1,7 @@
 using BoletoBusMaMonolitica.Data.Context;
 using BoletoBusMaMonolitica.Data.DbObjects;
 using BoletoBusMaMonolitica.Data.Interfaces;
+using BoletoBusMaMonolitica.Data.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -29,8 +30,8 @@ namespace BoletoBusMaMonolitica.Controllers
         public ActionResult Details(int id)
 
         {
-            
-            return View();
+            var reserva = this.reservaDb.GetReservas(id);
+            return View(reserva);
         }
 
         // GET: ReservaController/Create
@@ -42,10 +43,12 @@ namespace BoletoBusMaMonolitica.Controllers
         // POST: ReservaController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(ReservaSaveModel reservaSave)
         {
             try
             {
+                reservaSave.FechaCreacion = DateTime.Now;
+                this.reservaDb.SaveReserva(reservaSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -57,16 +60,19 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: ReservaController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var reserva = this.reservaDb.GetReservas(id);
+            return View(reserva);
         }
 
         // POST: ReservaController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, ReservaUpdateModel reservaUpdate)
         {
             try
             {
+                reservaUpdate.FechaCreacion = DateTime.Now;
+                this.reservaDb.UpdateReserva(reservaUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -75,25 +81,8 @@ namespace BoletoBusMaMonolitica.Controllers
             }
         }
 
-        // GET: ReservaController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: ReservaController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+      
+        
+        
     }
 }

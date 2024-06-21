@@ -3,96 +3,164 @@
   "WorkspaceRootPath": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\reservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\reservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\ireservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\ireservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\iusuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\iusuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\iusuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\iusuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\ireservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\ireservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\reservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\reservadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\dbobjects\\busdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\dbobjects\\busdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\interfaces\\ibusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\bl\\exceptions\\busserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\exceptions\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\exceptions\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|solutionrelative:boletobusmamonolitica\\data\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F38517D-7CBF-49D7-BBF1-093686065C74}|BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj|c:\\pro\\itla\\boletobusmamonolitica\\boletobusmamonolitica\\boletobusmamonolitica\\bl\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,11 +178,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "BusServiceException.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Exceptions\\BusServiceException.cs",
@@ -135,165 +203,461 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IReservaDb.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:58:53.184Z"
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:36:28.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:34:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ReservaException.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\ReservaException.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Exceptions\\ReservaException.cs",
               "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\ReservaException.cs",
               "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Exceptions\\ReservaException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T13:23:51.451Z"
+              "WhenOpened": "2024-06-07T13:23:51.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bus.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T23:55:39.245Z"
+              "WhenOpened": "2024-06-20T17:42:51.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReservaSaveModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T23:09:01.166Z"
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Details.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Reserva\\Details.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Details.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Reserva\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T04:41:25.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ReservaUpdateModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T23:12:10.797Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T04:45:50.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:33:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:27:14.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioBaseModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioBaseModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioBaseModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioBaseModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:55:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "BoletoBusMaMonolitica\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:41:34.776Z"
+              "WhenOpened": "2024-06-04T20:41:34.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ReservaController.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\ReservaController.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Controllers\\ReservaController.cs",
               "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\ReservaController.cs",
               "RelativeToolTip": "BoletoBusMaMonolitica\\Controllers\\ReservaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T19:12:33.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "UsuarioRemoveModelc.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:09:15.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:29:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioGetModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioGetModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioGetModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioGetModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:56:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioDb.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:09:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservaGetModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaGetModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaGetModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaGetModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:48:07.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ModelBase.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ModelBase.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ModelBase.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:51:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservaBaseModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaBaseModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaBaseModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaBaseModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:50:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservaUpdateModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:12:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioSaveModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:52:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioUpdateModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:39:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReservaSaveModel.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:09:01.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUsuarioDb.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:43:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IReservaDb.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IReservaDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:58:53.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReservaDb.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:42:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T01:04:20.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAEwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:28:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "BoletoBusContext.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
               "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
               "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Context\\BoletoBusContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T18:50:09.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:28:35.556Z"
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:09:25.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 29,
+              "Title": "BusDb.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\BusDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:34:34.265Z"
+              "WhenOpened": "2024-06-20T17:16:35.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReservaDb.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\ReservaDb.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAewC4AAAAJAAAA",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T23:42:22.537Z"
+              "WhenOpened": "2024-06-05T01:16:22.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioException.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:31:47.231Z"
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:19:05.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioDb.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\DbObjects\\UsuarioDb.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAewCYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:09:31.87Z"
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Create.cshtml",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Views\\Reserva\\Create.cshtml",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Views\\Reserva\\Create.cshtml",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Views\\Reserva\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T01:47:55.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Program.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Program.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Program.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:56:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\appsettings.Development.json",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\appsettings.Development.json",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:50:38.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "IBusDb.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IBusDb.cs",
@@ -305,103 +669,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReservaModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:13:51.022Z"
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\appsettings.json",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\appsettings.json",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\appsettings.json",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T01:18:53.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUsuarioDb.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Interfaces\\IUsuarioDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "DocumentIndex": 38,
+              "Title": "UsuarioException.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Exceptions\\UsuarioException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:43:15.009Z"
+              "WhenOpened": "2024-06-05T03:31:47.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReservaRemoveModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaRemoveModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\ReservaRemoveModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\ReservaRemoveModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\ReservaRemoveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 39,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Entities\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:08:59.128Z"
+              "WhenOpened": "2024-05-22T23:55:39.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsuarioRemoveModelc.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioRemoveModelc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:09:15.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:29:41.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UsuarioUpdateModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioUpdateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:39:53.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UsuarioSaveModel.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Models\\UsuarioSaveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:52:28.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
-              "ToolTip": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
-              "RelativeToolTip": "BoletoBusMaMonolitica\\Data\\Core\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:16:22.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BL\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BL\\Services\\UsuarioService.cs",
@@ -413,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "BoletoBusMaMonolitica.csproj",
               "DocumentMoniker": "C:\\pro\\itla\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj",
               "RelativeDocumentMoniker": "BoletoBusMaMonolitica\\BoletoBusMaMonolitica.csproj",

@@ -12,19 +12,19 @@ namespace BoletoBusMaMonolitica.Data.Models
         {
             return new UsuarioModel
             {
-                IdUsuario = usuario.IdUsuario, Apellidos = usuario.Apellidos,
+
+                IdUsuario = usuario.IdUsuario,
+                Nombres = usuario.Nombres,
+                Apellidos = usuario.Apellidos,
                 Correo = usuario.Correo,
-                FechaCreacion=usuario.FechaCreacion, 
-                Nombres = usuario.Nombres, 
-                TipoUsuario = usuario.TipoUsuario  
-                
+                Clave = usuario.Clave,
+                TipoUsuario = usuario.TipoUsuario,
+                FechaCreacion = usuario.FechaCreacion
+
 
             };
         }
 
-        internal void UpdateEntity(Usuario? usuario)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }

@@ -1,8 +1,9 @@
+using BoletoBusMaMonolitica.Data.DbObjects;
 using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class ReservaSaveModel : ReservaModel
+    public class ReservaSaveModel : ReservaBaseModel
     {
         public ReservaSaveModel() { }
 
@@ -10,11 +11,12 @@ namespace BoletoBusMaMonolitica.Data.Models
         {
             return new Reserva
             {
-                AsientosReservados = this.AsientosReservados,
-                IdPasajero = this.IdPasajero,
                 IdReserva = this.IdReserva,
+                IdViaje = this.IdViaje,
+                IdPasajero = this.IdPasajero,
+                AsientosReservados = this.AsientosReservados,
                 MontoTotal = this.MontoTotal,
-                IdViaje = this.IdViaje
+                FechaCreacion = this.FechaCreacion
 
 
             };

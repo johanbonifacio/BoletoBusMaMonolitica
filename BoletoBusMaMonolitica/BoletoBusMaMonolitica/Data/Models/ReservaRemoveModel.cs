@@ -2,7 +2,7 @@ using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class ReservaRemoveModel : ReservaModel
+    public class ReservaRemoveModel : ReservaBaseModel
     {
         public ReservaRemoveModel()
         {

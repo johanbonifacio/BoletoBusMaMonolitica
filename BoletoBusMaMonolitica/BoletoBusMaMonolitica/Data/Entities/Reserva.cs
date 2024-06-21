@@ -1,11 +1,12 @@
 using BoletoBusMaMonolitica.Data.Core;
+using System.ComponentModel.DataAnnotations;
 
 namespace BoletoBusMaMonolitica.Data.Entities
 {
     public class Reserva : BaseEntity
     {
-
-        public int IdReserva { get; set; }
+       
+       [Key] public int IdReserva { get; set; }
 
         public int IdViaje { get; set; }
 

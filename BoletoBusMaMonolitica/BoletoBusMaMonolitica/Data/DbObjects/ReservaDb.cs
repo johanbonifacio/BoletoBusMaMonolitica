@@ -21,17 +21,19 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
             this.context = context;
         }
 
-        public ReservaModel GetReservas(int IdReserva)
+        public ReservaGetModel GetReservas(int IdReserva)
         {
-            var reserva= this.context.Reserva.Find(IdReserva);
-             return ReservaModel.FromEntity(reserva);
             
-            
+            var reserva = context.Reserva.Find(IdReserva);
+            ReservaException.VerifyExistence(reserva, IdReserva);
+            return ReservaGetModel.FromEntity(reserva);
+
         } 
 
-        public List<ReservaModel> GetReservas()
+        public List<ReservaGetModel> GetReservas()
         {
-            return context.Reserva.Select(reserva => ReservaModel.FromEntity(reserva)).ToList();
+
+            return context.Reserva.Select(reserva => ReservaGetModel.FromEntity(reserva)).ToList();
         }
 
         public void RemoveReserva(ReservaRemoveModel reservaRemove)

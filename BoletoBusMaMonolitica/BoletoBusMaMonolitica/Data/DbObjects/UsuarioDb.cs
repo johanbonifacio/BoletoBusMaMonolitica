@@ -18,16 +18,17 @@ namespace BoletoBusMaMonolitica.Data.DbObjects
 
         
 
-        public UsuarioModel GetUsuarios(int IdUsuario)
+        public UsuarioGetModel GetUsuarios(int IdUsuario)
         {
-            var usuario = this.context.Usuario.Find(IdUsuario);
-            return UsuarioModel.FromEntity(usuario);
+            var usuario = context.Usuario.Find(IdUsuario);
+           UsuarioException.VerifyExistence(usuario, IdUsuario);
+            return UsuarioGetModel.FromEntity(usuario);
         }
 
         
-        public List<UsuarioModel> GetUsuarios()
+        public List<UsuarioGetModel> GetUsuarios()
         {
-            return context.Usuario.Select(usuario => UsuarioModel.FromEntity(usuario)).ToList();
+            return context.Usuario.Select(usuario => UsuarioGetModel.FromEntity(usuario)).ToList();
         }
 
         public void RemoveUsuario(UsuarioRemoveModel UsuarioRemove)

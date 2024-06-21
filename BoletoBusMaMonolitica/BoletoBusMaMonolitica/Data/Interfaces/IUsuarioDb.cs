@@ -8,7 +8,7 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
         void SaveUsuario(UsuarioSaveModel usuarioSave);
         void UpdateUsuario(UsuarioUpdateModel updateModel);
         void RemoveUsuario(UsuarioRemoveModel UsuarioRemove);
-        List<UsuarioModel> GetUsuarios();
-        UsuarioModel GetUsuarios(int Idusuario);
+        List<UsuarioGetModel> GetUsuarios();
+        UsuarioGetModel GetUsuarios(int Idusuario);
     }
 }

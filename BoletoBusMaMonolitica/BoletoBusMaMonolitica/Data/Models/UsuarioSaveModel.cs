@@ -2,7 +2,7 @@ using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class UsuarioSaveModel : UsuarioModel
+    public class UsuarioSaveModel : UsuarioBaseModel
     {
         public UsuarioSaveModel() { }
 
@@ -12,14 +12,15 @@ namespace BoletoBusMaMonolitica.Data.Models
             {
 
 
-                FechaCreacion =this.FechaCreacion, 
-                Apellidos = this.Apellidos, 
-                Correo = this.Correo, 
-                TipoUsuario = this.TipoUsuario, 
-                Nombres = this.Nombres,  
-                IdUsuario = this.IdUsuario
+                IdUsuario = this.IdUsuario,
+                Nombres = this.Nombres,
+                Apellidos = this.Apellidos,
+                Correo = this.Correo,
+                Clave = this.Clave,
+                TipoUsuario = this.TipoUsuario,
+                FechaCreacion = this.FechaCreacion
 
-               
+
             };
         }
     }

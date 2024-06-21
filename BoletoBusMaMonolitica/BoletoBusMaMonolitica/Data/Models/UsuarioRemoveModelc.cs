@@ -1,8 +1,9 @@
+using BoletoBusMaMonolitica.Data.DbObjects;
 using BoletoBusMaMonolitica.Data.Entities;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class UsuarioRemoveModel : UsuarioModel
+    public class UsuarioRemoveModel : UsuarioBaseModel
     {
         public UsuarioRemoveModel() { }
 
@@ -12,12 +13,14 @@ namespace BoletoBusMaMonolitica.Data.Models
             {
 
 
-                FechaCreacion = this.FechaCreacion,
+
+                IdUsuario = this.IdUsuario,
+                Nombres = this.Nombres,
                 Apellidos = this.Apellidos,
                 Correo = this.Correo,
+                Clave = this.Clave,
                 TipoUsuario = this.TipoUsuario,
-                Nombres = this.Nombres,
-                IdUsuario = this.IdUsuario
+                FechaCreacion = this.FechaCreacion
 
 
             };

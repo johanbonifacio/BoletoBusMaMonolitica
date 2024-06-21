@@ -1,7 +1,21 @@
+using BoletoBusMaMonolitica.Data.Context;
+using BoletoBusMaMonolitica.Data.DbObjects;
+using BoletoBusMaMonolitica.Data.Interfaces;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<BoletoBusContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("BoletoBusContext")));
+
+builder.Services.AddScoped<IReservaDb,ReservaDb>();
+
+builder.Services.AddScoped<IUsuarioDb, UsuarioDb>();
+
+
 
 var app = builder.Build();
 

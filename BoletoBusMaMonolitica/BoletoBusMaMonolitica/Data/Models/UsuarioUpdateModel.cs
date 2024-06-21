@@ -1,7 +1,7 @@
 using BoletoBusMaMonolitica.Data.Entities;
 using BoletoBusMaMonolitica.Data.Models;
 
-public class UsuarioUpdateModel : UsuarioModel
+public class UsuarioUpdateModel : UsuarioBaseModel
 {
     public UsuarioUpdateModel()
     {
@@ -11,12 +11,14 @@ public class UsuarioUpdateModel : UsuarioModel
 
 
 
-        usuario.FechaCreacion = this.FechaCreacion;
+
+        usuario.IdUsuario = this.IdUsuario;
+        usuario.Nombres = this.Nombres;
         usuario.Apellidos = this.Apellidos;
         usuario.Correo = this.Correo;
+        usuario.Clave = this.Clave;
         usuario.TipoUsuario = this.TipoUsuario;
-        usuario.Nombres = this.Nombres;
-        usuario.IdUsuario = this.IdUsuario;
+        usuario.FechaCreacion = this.FechaCreacion;
 
     }
 }

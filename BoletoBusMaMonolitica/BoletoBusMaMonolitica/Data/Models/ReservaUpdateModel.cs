@@ -4,7 +4,7 @@ using BoletoBusMaMonolitica.Data.Exceptions;
 
 namespace BoletoBusMaMonolitica.Data.Models
 {
-    public class ReservaUpdateModel: ReservaModel
+    public class ReservaUpdateModel: ReservaBaseModel
     {
 
 
@@ -15,6 +15,7 @@ namespace BoletoBusMaMonolitica.Data.Models
            reserva.AsientosReservados = this.AsientosReservados;
             reserva.IdReserva = this.IdReserva;
             reserva.IdPasajero = this.IdPasajero;
+            reserva.MontoTotal = this.MontoTotal;
             reserva.FechaCreacion = this.FechaCreacion;
 
 

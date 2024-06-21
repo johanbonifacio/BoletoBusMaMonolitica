@@ -1,5 +1,6 @@
 using BoletoBusMaMonolitica.Data.Context;
 using BoletoBusMaMonolitica.Data.Interfaces;
+using BoletoBusMaMonolitica.Data.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -20,14 +21,15 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: UsuarioController
         public ActionResult Index()
         {
-            this.usuarioDb.GetUsuarios();
-            return View();
+            var usuario = this.usuarioDb.GetUsuarios();
+            return View(usuario);
         }
 
         // GET: suarioController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var usuario = this.usuarioDb.GetUsuarios(id);
+            return View(usuario);
         }
 
         // GET: UsuarioController/Create
@@ -39,10 +41,12 @@ namespace BoletoBusMaMonolitica.Controllers
         // POST: UsuarioController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(UsuarioSaveModel usuarioSave)
         {
             try
             {
+                usuarioSave.FechaCreacion = DateTime.Now;
+                this.usuarioDb.SaveUsuario(usuarioSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -54,16 +58,19 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: UsuarioController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var usuario = this.usuarioDb.GetUsuarios(id);
+            return View(usuario);
         }
 
         // POST: UsuarioController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, UsuarioUpdateModel usuarioUpdate)
         {
             try
             {
+                usuarioUpdate.FechaCreacion = DateTime.Now;
+                this.usuarioDb.UpdateUsuario(usuarioUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -72,25 +79,7 @@ namespace BoletoBusMaMonolitica.Controllers
             }
         }
 
-        // GET: UsuarioController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: UsuarioController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+        
+        
     }
 }
