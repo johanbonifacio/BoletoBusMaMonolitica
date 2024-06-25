@@ -1,29 +1,39 @@
-﻿using BoletoBusMaMonolitica.Data.DbObjects;
-using BoletoBusMaMonolitica.Data.Interfaces;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using BoletoBusMaMonolitica.BL.Interfaces;
 using BoletoBusMaMonolitica.Data.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BoletoBusMaMonolitica.Controllers
 {
     public class AsientoController : Controller
     {
-        private readonly IAsientoDb asientoDb;
-        public AsientoController(IAsientoDb asientoDb)
+        private readonly IAsientoService asientoService;
+
+        public AsientoController(IAsientoService asientoService)
         {
-            this.asientoDb = asientoDb;
+            this.asientoService = asientoService;
         }
+
         // GET: AsientoController
         public ActionResult Index()
         {
-            var asiento = this.asientoDb.GetAsientos();
-            return View(asiento);
+            var result = this.asientoService.GetAsientos();
+
+            if (!result.Success)
+                ViewBag.Message = result.Message;
+
+            var asientos = (List<AsientoGetModel>)result.Data;
+            return View(asientos);
         }
 
         // GET: AsientoController/Details/5
         public ActionResult Details(int id)
         {
-            var asiento = this.asientoDb.GetAsiento(id);
+            var result = this.asientoService.GetAsiento(id);
+
+            if (!result.Success)
+                return NotFound(result.Message);
+
+            var asiento = (AsientoGetModel?)result.Data;
             return View(asiento);
         }
 
@@ -41,8 +51,16 @@ namespace BoletoBusMaMonolitica.Controllers
             try
             {
                 asientoSave.FechaCreacion = DateTime.Now;
-                this.asientoDb.SaveAsiento(asientoSave);
-                return RedirectToAction(nameof(Index));
+                var result = this.asientoService.SaveAsiento(asientoSave);
+                if (result.Success)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    ViewBag.Message = result.Message;
+                    return View(asientoSave);
+                }
             }
             catch
             {
@@ -53,7 +71,12 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: AsientoController/Edit/5
         public ActionResult Edit(int id)
         {
-            var asiento = asientoDb.GetAsiento(id);
+            var result = this.asientoService.GetAsiento(id);
+
+            if (!result.Success)
+                return NotFound(result.Message);
+
+            var asiento = (AsientoGetModel)result.Data;
             return View(asiento);
         }
 
@@ -65,7 +88,7 @@ namespace BoletoBusMaMonolitica.Controllers
             try
             {
                 asientoUpdate.FechaCreacion = DateTime.Now;
-                this.asientoDb.UpdateAsiento(asientoUpdate);
+                this.asientoService.UpdateAsiento(asientoUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -75,3 +98,4 @@ namespace BoletoBusMaMonolitica.Controllers
         }
     }
 }
+

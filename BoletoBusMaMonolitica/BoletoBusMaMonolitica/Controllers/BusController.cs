@@ -1,30 +1,39 @@
-﻿using BoletoBusMaMonolitica.Data.Context;
-using BoletoBusMaMonolitica.Data.Interfaces;
+﻿using BoletoBusMaMonolitica.BL.Interfaces;
 using BoletoBusMaMonolitica.Data.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BoletoBusMaMonolitica.Controllers
 {
     public class BusController : Controller
     {
-        private readonly IBusDb busDb;
-       
-        public BusController(IBusDb busDb) 
+        private readonly IBusService busService;
+
+        public BusController(IBusService busService)
         {
-            this.busDb = busDb;
+            this.busService = busService;
         }
+
         // GET: BusController
         public ActionResult Index()
         {
-            var bus = this.busDb.GetBuses();
+            var result = this.busService.GetBuses();
+
+            if (!result.Success)
+                ViewBag.Message = result.Message;
+
+            var bus = (List<BusGetModel>)result.Data;
             return View(bus);
         }
-                        
+
         // GET: BusController/Details/5
         public ActionResult Details(int id)
         {
-            var bus = this.busDb.GetBus(id);
+            var result = this.busService.GetBus(id);
+
+            if (!result.Success)
+                return NotFound(result.Message);
+
+            var bus = (BusGetModel?)result.Data;
             return View(bus);
         }
 
@@ -41,9 +50,17 @@ namespace BoletoBusMaMonolitica.Controllers
         {
             try
             {
-                busSave.FechaCreacion = DateTime.Now;
-                this.busDb.SaveBus(busSave);
-                return RedirectToAction(nameof(Index));
+               busSave.FechaCreacion = DateTime.Now;
+               var result = this.busService.SaveBus(busSave); 
+               if (result.Success) 
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    ViewBag.Message = result.Message; 
+                    return View(busSave);
+                }
             }
             catch
             {
@@ -54,7 +71,12 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: BusController/Edit/5
         public ActionResult Edit(int id)
         {
-            var bus = this.busDb.GetBus(id);
+            var result = this.busService.GetBus(id);
+
+            if (!result.Success)
+                return NotFound(result.Message);
+
+            var bus = (BusGetModel)result.Data; 
             return View(bus);
         }
 
@@ -66,7 +88,7 @@ namespace BoletoBusMaMonolitica.Controllers
             try
             {
                 busUpdate.FechaCreacion = DateTime.Now;
-                this.busDb.UpdateBus(busUpdate);
+                this.busService.UpdateBuses(busUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -76,3 +98,5 @@ namespace BoletoBusMaMonolitica.Controllers
         }
     }
 }
+
+
