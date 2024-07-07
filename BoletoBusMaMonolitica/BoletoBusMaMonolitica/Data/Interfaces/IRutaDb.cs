@@ -1,5 +1,5 @@
-﻿using BoletoBusMaMonolitica.Data.Entities;
-using BoletoBusMaMonolitica.Data.Models;
+﻿using BoletoBusMaMonolitica.Data.Models.Rut;
+using System.Collections.Generic;
 
 namespace BoletoBusMaMonolitica.Data.Interfaces
 {
@@ -8,7 +8,7 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
         void SaveRuta(RutaSaveModel rutaSave);
         void UpdateRuta(RutaUpdateModel updateModel);
         void RemoveRuta(RutaRemoveModel rutaRemove);
-        List<RutaModel> GetRutas();
-        RutaModel GetRuta(int IdRuta);
+        List<RutaGetModel> GetRutas();
+        RutaGetModel GetRuta(int IdRuta);
     }
 }

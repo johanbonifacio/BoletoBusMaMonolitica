@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BoletoBusMaMonolitica.props" />
+</Project>

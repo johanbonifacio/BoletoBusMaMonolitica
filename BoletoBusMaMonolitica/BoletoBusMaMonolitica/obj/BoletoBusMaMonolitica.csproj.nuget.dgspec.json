@@ -47,6 +47,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [
@@ -63,19 +73,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
+              "version": "[6.0.31, 6.0.31]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.30, 6.0.30]"
+              "version": "[6.0.31, 6.0.31]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
+              "version": "[6.0.31, 6.0.31]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
+              "version": "[6.0.31, 6.0.31]"
             }
           ],
           "frameworkReferences": {
@@ -86,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.119\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.120\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,15 +5,21 @@ namespace BoletoBusMaMonolitica.Data.Context
 {
     public class BoletoBusContext : DbContext
     {
-        #region "Constructor"
         public BoletoBusContext(DbContextOptions<BoletoBusContext> options)
             : base(options)
         {
         }
-        #endregion
 
-        #region "Db Sets"
         public DbSet<Ruta> Ruta { get; set; }
-        #endregion
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Ruta>(entity =>
+            {
+                entity.HasKey(e => e.IdRuta);
+            });
+        }
     }
 }

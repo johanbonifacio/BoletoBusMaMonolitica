@@ -14,5 +14,10 @@ namespace BoletoBusMaMonolitica.Data.Exceptions
                 throw new RutaException($"La ruta con la id {idRuta} no está disponible.");
             }
         }
+
+        internal static void VerifyExistence(Ruta? ruta, object?[]? idRuta)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

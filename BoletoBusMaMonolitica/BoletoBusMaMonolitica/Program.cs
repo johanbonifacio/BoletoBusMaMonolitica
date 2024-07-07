@@ -1,7 +1,19 @@
+using BoletoBusMaMonolitica.Data.Context;
+using BoletoBusMaMonolitica.Data.DbObjects;
+using BoletoBusMaMonolitica.Data.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<BoletoBusContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BoletoBusContext")));
+
+#region Scoped
+builder.Services.AddScoped<IRutaDB, RutaDB>();
+#endregion
 
 var app = builder.Build();
 
@@ -9,7 +21,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
