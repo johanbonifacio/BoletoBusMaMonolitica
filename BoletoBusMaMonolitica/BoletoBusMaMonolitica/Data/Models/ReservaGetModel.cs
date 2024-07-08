@@ -11,9 +11,9 @@ namespace BoletoBusMaMonolitica.Data.Models
         {
             return new ReservaGetModel
             {
-
+             
                 IdReserva = reserva.IdReserva,
-                IdViaje = reserva.IdViaje,
+                IdViaje = reserva.IdViaje,               
                 IdPasajero = reserva.IdPasajero,
                 AsientosReservados = reserva.AsientosReservados,
                 MontoTotal=reserva.MontoTotal,

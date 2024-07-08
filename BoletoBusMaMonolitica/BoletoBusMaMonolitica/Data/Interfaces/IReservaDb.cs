@@ -8,7 +8,8 @@ namespace BoletoBusMaMonolitica.Data.Interfaces
         void SaveReserva (ReservaSaveModel reservaSave);
         void UpdateReserva (ReservaUpdateModel updateModel);
         void RemoveReserva(ReservaRemoveModel reservaRemove);
-        List<ReservaGetModel>  GetReservas ();
+        List<ReservaGetModel> GetReservas ();
         ReservaGetModel GetReservas (int IdReserva);
+
     }
 }

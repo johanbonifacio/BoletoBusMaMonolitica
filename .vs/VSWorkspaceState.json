@@ -5,11 +5,10 @@
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica",
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers",
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data",
-    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Context",
-    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Core",
     "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Entities",
-    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions"
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Exceptions",
+    "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Data\\Models"
   ],
-  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica\\Controllers\\UsuarioController.cs",
+  "SelectedNode": "\\BoletoBusMaMonolitica\\BoletoBusMaMonolitica.sln",
   "PreviewInSolutionExplorer": false
 }
