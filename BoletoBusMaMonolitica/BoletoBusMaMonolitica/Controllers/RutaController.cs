@@ -1,34 +1,74 @@
-﻿using BoletoBusMaMonolitica.Data.Interfaces;
+﻿using BoletoBusMaMonolitica.BL.Interfaces;
+using BoletoBusMaMonolitica.Data.Interfaces;
 using BoletoBusMaMonolitica.Data.Models.Rut;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace BoletoBusMaMonolitica.Controllers
 {
     public class RutaController : Controller
     {
-        private readonly IRutaDB rutaDb;
+        private readonly IRutaService rutaService;
 
         public object RutaUpdate { get; private set; }
 
-        public RutaController(IRutaDB rutaDb)
+        public RutaController(IRutaService rutaService)
         {
-            this.rutaDb = rutaDb;
+            this.rutaService = rutaService;
         }
-
 
         // GET: RutaController
         public ActionResult Index()
         {
-            var ruta = this.rutaDb.GetRutas();
-            return View(ruta);
+            var result = this.rutaService.GetRutas();
+
+            if (!result.Success)
+            {
+                ViewBag.Message = result.Message;
+                return View();
+            }
+
+            var rutasGet = result.Data as List<RutaGetModel>;
+            if (rutasGet != null)
+            {
+                var rutas = rutasGet.Select(r => new RutaGetModel
+                {
+                    IdRuta = r.IdRuta,
+                    Origen = r.Origen,
+                    Destino = r.Destino,
+                    ChangeUser = r.ChangeUser,
+                    ChangeDate = r.ChangeDate
+                }).ToList();
+
+                return View(rutas);
+            }
+
+            ViewBag.Message = "Error al obtener las rutas.";
+            return View();
         }
 
         // GET: RutaController/Details/5
         public ActionResult Details(int id)
         {
-            var ruta = this.rutaDb.GetRuta(id);
-            return View(ruta);
+            var result = this.rutaService.GetRutas(id);
+
+            if (!result.Success)
+            {
+                ViewBag.Message = result.Message;
+                return View();
+            }
+
+            var ruta = result.Data as RutaGetModel;
+            if (ruta != null)
+            {
+                return View(ruta);
+            }
+
+            ViewBag.Message = "Ruta no encontrada.";
+            return View();
         }
 
         // GET: RutaController/Create
@@ -46,7 +86,7 @@ namespace BoletoBusMaMonolitica.Controllers
             {
                 rutaSave.ChangeDate = DateTime.Now;
                 rutaSave.ChangeUser = 1;
-                this.rutaDb.SaveRuta(rutaSave);
+                this.rutaService.SaveRutas(rutaSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -58,9 +98,22 @@ namespace BoletoBusMaMonolitica.Controllers
         // GET: RutaController/Edit/5
         public ActionResult Edit(int id)
         {
-            var ruta = rutaDb.GetRuta(id);
-            return View(ruta);
+            var result = this.rutaService.GetRutas(id);
 
+            if (!result.Success)
+            {
+                ViewBag.Message = result.Message;
+                return View();
+            }
+
+            var ruta = result.Data as RutaGetModel;
+            if (ruta != null)
+            {
+                return View(ruta);
+            }
+
+            ViewBag.Message = "Ruta no encontrada.";
+            return View();
         }
 
         // POST: RutaController/Edit/5
@@ -72,7 +125,7 @@ namespace BoletoBusMaMonolitica.Controllers
             {
                 rutaUpdate.ChangeDate = DateTime.Now;
                 rutaUpdate.ChangeUser = 1;
-                this.rutaDb.UpdateRuta(rutaUpdate);
+                this.rutaService.UpdateRutas(rutaUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch

@@ -1,6 +1,8 @@
 using BoletoBusMaMonolitica.Data.Context;
 using BoletoBusMaMonolitica.Data.DbObjects;
 using BoletoBusMaMonolitica.Data.Interfaces;
+using BoletoBusMaMonolitica.BL.Interfaces;
+using BoletoBusMaMonolitica.BL.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,7 @@ builder.Services.AddDbContext<BoletoBusContext>(options =>
 
 #region Scoped
 builder.Services.AddScoped<IRutaDB, RutaDB>();
+builder.Services.AddScoped<IRutaService, RutaService>();
 #endregion
 
 var app = builder.Build();
